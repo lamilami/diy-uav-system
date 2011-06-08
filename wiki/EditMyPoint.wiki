@@ -10,4 +10,4 @@ http://diy-uav-system.googlecode.com/files/hk.JPG
   * 安装 HK GCS* 
     下载地址 _http://code.google.com/p/happykillmore-gcs/downloads/list_
 
-  * 运行 HK GCS ，选择waypoint项* 
+  * 运行 HK GCS ，选择_waypoints_项* 
