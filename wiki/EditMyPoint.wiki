@@ -3,6 +3,7 @@
 = Introduction =
 
 HK GCS 地面站支持航线编辑，实时3D状态显示，并支持多个传输协议的地面站。
+http://code.google.com/p/diy-uav-system/downloads/hk1.JPG
 
 = Details =
 
