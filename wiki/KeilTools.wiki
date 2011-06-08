@@ -21,3 +21,11 @@ http://diy-uav-system.googlecode.com/files/keil2.JPG
 
 http://diy-uav-system.googlecode.com/files/keil3.JPG
  
+
+  * 点击SETTING 添加地址空间
+
+http://diy-uav-system.googlecode.com/files/keil4.JPG
+
+  * 配置完成后连接好下载器和控制板 点击DOWNLOAD 即可。
+
+
