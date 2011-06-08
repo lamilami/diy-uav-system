@@ -16,6 +16,8 @@ http://diy-uav-system.googlecode.com/files/f1.JPG
   * Rebuild all...编译全部文档
 
 http://diy-uav-system.googlecode.com/files/keil2.JPG
-  
 
+  * 选择下载工具_*J-LINK*_ 
+
+http://diy-uav-system.googlecode.com/files/keil3.JPG
  
