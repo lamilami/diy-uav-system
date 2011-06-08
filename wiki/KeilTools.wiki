@@ -7,10 +7,15 @@
 = Details =
 如何安装 Keil 开发环境 我在这里就不多说了。不清楚的可以在网上搜到相关信息
 
-  * 下载 *Dragonfly.rar* 文件，解压到后 在Keil 开发环境打开项目。
+  * 下载 *Dragonfly.rar* 文件，解压后在Keil 开发环境打开项目。
 
 http://diy-uav-system.googlecode.com/files/f1.JPG
 
 
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
+
+  * Rebuild all...编译全部文档
+
+http://diy-uav-system.googlecode.com/files/keil2.JPG
+  
+
+ 
