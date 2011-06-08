@@ -1,13 +1,10 @@
-#summary One-sentence summary of this page.
+#使用HK GCS 地面站编辑航点。
 
 = Introduction =
 
-Add your content here.
-
+HK GCS 地面站支持航线编辑，实时3D状态显示，并支持多个传输协议的地面站。
 
 = Details =
 
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
+  * 安装 *HK GCS* 
+    主页地址 _http://code.google.com/p/happykillmore-gcs/downloads/list_
