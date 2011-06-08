@@ -7,6 +7,7 @@
 = Details =
 如何安装 Keil 开发环境 我在这里就不多说了。不清楚的可以在网上搜到相关信息
 
-  * Text in *bold* or _italic_
+  * 下载 *Dragonfly.rar* 文件，解压到后 在Keil 开发环境打开项目。
+
   * Headings, paragraphs, and lists
   * Automatic links to other wiki pages
