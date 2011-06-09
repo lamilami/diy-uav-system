@@ -14,4 +14,6 @@ http://diy-uav-system.googlecode.com/files/hk.JPG
 
  http://diy-uav-system.googlecode.com/files/hk1.JPG
 
+  * 选择_ArduPilot Mega(MAVlink)_ 在地图上点击便可编辑航点.*
+
  http://diy-uav-system.googlecode.com/files/hk2.JPG
