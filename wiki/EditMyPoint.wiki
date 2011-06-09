@@ -10,4 +10,4 @@ http://diy-uav-system.googlecode.com/files/hk.JPG
   * 安装 HK GCS* 
     下载地址 _http://code.google.com/p/happykillmore-gcs/downloads/list_
 
-  * 运行 HK GCS ，选择_*waypoints*_项* 
+  * 运行 HK GCS ，选择_*waypoints*_项* （注意 HK GCS 需要在线运行，如果登陆不了互联网则无法打开GOOGLE EARTH 地图）
