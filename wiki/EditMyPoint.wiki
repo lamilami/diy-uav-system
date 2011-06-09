@@ -19,4 +19,4 @@ http://diy-uav-system.googlecode.com/files/hk.JPG
  http://diy-uav-system.googlecode.com/files/hk2.JPG
 
 
-  *选择_Save Mission_将航迹点保存到文件中（文件名必需叫MY_POINT.txt）并拷贝到SD卡上*
+  * 选择_Save Mission_将航迹点保存到文件中（文件名必需叫 MY_POINT.txt）并拷贝到SD卡上*
