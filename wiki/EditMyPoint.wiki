@@ -17,3 +17,6 @@ http://diy-uav-system.googlecode.com/files/hk.JPG
   * 选择_ArduPilotMega(MAVlink)_ 在地图上点击便可编辑航点.*
 
  http://diy-uav-system.googlecode.com/files/hk2.JPG
+
+
+  *选择_Save Mission_将航迹点保存到文件中（文件名必需叫MY_POINT.txt）并拷贝到SD卡上*
