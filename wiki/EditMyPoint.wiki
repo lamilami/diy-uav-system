@@ -20,4 +20,5 @@ http://diy-uav-system.googlecode.com/files/hk.JPG
 
 
   * 选择_Save Mission_将航迹点保存到文件中（文件名必需叫 MY_POINT.txt）并拷贝到SD卡上*
+
   * 注意：SD卡务必要格式化成FAT16/32 格式的，因为控制板上的文件系统只认FAT16/32 格式的文件。*
