@@ -6,7 +6,12 @@
 
 = Details =
 
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
+  * 操纵杆的连接
+
+  * 操纵杆的按键定义
+
+  * 操控方法
+
+  * 如何启动电机和停止电机
+
+  * 自动飞行模式与手工操作模式的切换方法
