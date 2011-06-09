@@ -13,3 +13,5 @@ http://diy-uav-system.googlecode.com/files/hk.JPG
   * 运行 HK GCS ，选择_*waypoints*_项* （注意 HK GCS 需要在线运行，如果登陆不了互联网则无法打开GOOGLE EARTH 地图）
 
  http://diy-uav-system.googlecode.com/files/hk1.JPG
+
+ http://diy-uav-system.googlecode.com/files/hk2.JPG
