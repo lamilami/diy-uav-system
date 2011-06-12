@@ -12,4 +12,4 @@ http://diy-uav-system.googlecode.com/files/sns.JPG
 = Details =
 
 在赛斯纳的空机内的做一个小的支架用于放线路板。
-http://diy-uav-system.googlecode.com/files/plane_1.JPG
+http://diy-uav-system.googlecode.com/files/plane_1.jpg
