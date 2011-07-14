@@ -4,7 +4,7 @@
 * 搭建这套系统的理念就是尽量减少人为操作，达到最大程度的无人飞行，因此本套系统不同于传统操作方法，操控方式摒弃了传统的遥控器，取而代之的是游戏操作杆。
 因此其操作方式更接近在电脑上玩飞行模拟器，不过这次你实际控制的可是个真的能飞的飞机。*
 
- http://diy-uav-system.googlecode.com/files/JOY_1.jpg
+ http://diy-uav-system.googlecode.com/files/JOY_1.JPG
 
 _*无论是手工操控还是自动飞行，姿态自动平衡都处于工作状态*_
 
@@ -15,7 +15,7 @@ _*无论是手工操控还是自动飞行，姿态自动平衡都处于工作状
 
      操纵杆采用的是 USB 操纵杆，将其USB接头插入数据转发器中即可。
      
-     http://diy-uav-system.googlecode.com/files/JOY_RC1.jpg
+     http://diy-uav-system.googlecode.com/files/JOY_RC1.JPG
 
     * *操纵杆的按键定义*
 http://diy-uav-system.googlecode.com/files/JOYSTICK1.jpg
