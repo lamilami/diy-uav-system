@@ -9,6 +9,15 @@ http://using-joystick-as-remote-control.googlecode.com/files/BLOCK.JPG
 
 _*无论是手工操控还是自动飞行，姿态自动平衡都处于工作状态*_
 
+（使用 4-方向键 当作 微调 键）
+
+     上下键用于 【俯仰量】 微调
+     Up-Down key is for Pitch FINE adjustment.
+
+     左右键用于 【侧倾量】 微调
+     Left-Right key is for Roll FINE adjustment.
+
+
 http://using-joystick-as-remote-control.googlecode.com/files/FINE_ADJ.JPG
 
 
