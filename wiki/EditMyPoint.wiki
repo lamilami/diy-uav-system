@@ -3,7 +3,7 @@
 = Introduction =
 
 QGC 地面站支持航线编辑,指令发送，实时3D状态显示，并使用MAVLINK传输协议。
-http://diy-uav-system.googlecode.com/files/QGC.JPG
+https://diy-uav-system.googlecode.com/files/QGC.jpg
 
 = Details =
 
