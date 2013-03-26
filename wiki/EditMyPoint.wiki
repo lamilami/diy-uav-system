@@ -12,10 +12,11 @@ https://diy-uav-system.googlecode.com/files/QGC.jpg
 
   * 运行 QGC ，选择_*google Map*_项* （QGC 可以离线运行，如果登陆不了互联网则无法打开GOOGLE EARTH 3D状态显示地图）
 
+视频演示：http://v.youku.com/v_show/id_XNTMwNjIwODE2.html
 
 https://diy-uav-system.googlecode.com/files/QGC2.jpg
 
-视频演示：http://v.youku.com/v_show/id_XNTMwNjIwODE2.html
+
 
   * 在地图上点击便可编辑航点.*
 
